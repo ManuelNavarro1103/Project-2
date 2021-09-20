@@ -15,4 +15,4 @@ Creating routing from login and registration page.
 Creating custom backend queries to verify login.
 Creating CORS configuration for localhosts to communicate.
 Styling Login Page.
-Styling Registration Page.
+Styling Registration Page. 
